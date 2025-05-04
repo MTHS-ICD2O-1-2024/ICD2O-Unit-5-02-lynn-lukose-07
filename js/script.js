@@ -3,7 +3,6 @@
 // Created by: Lynn Lukose
 // Created on: April 2025
 // This file contains the JS functions for index.html
-const randomNumber = Math.floor(Math.random() * 6) + 1
 /**
  * This function generates random positive or negative number
  */
